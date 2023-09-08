@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
+<!DOCTYPE plist1 PUBLIC "-//Apple//DTD Plist1 1.0//EN" "http://www.apple.com/DTDs/Propertylist1-1.0.dtd">
+<plist1 version="1.0">
 <dict>
 	<key>IDEDidComputeMac32BitWarning</key>
 	<true/>
 </dict>
-</plist>
+</plist1>
